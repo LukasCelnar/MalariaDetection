@@ -16,13 +16,13 @@ You give it image of size 224px x 244px and you will get true label, predicted l
 
 Here is an example:
 
-![example img](https://ctrlv.cz/shots/2020/07/10/zi3d.png)
+![example img](/markup_imgs/confusion_matrix.png)
 
 ## **Confusion Matrix**
 
 Here is an Confusion Matrix describing performence on validation dataset which contains ± 1000 images
 
-![confusion metrix](https://ctrlv.cz/shots/2020/07/10/Sck3.png)
+![confusion metrix](/markup_imgs/prediction_example.jpg)
 
 ## **What is an Confusion Matrix ? You may ask**
 
